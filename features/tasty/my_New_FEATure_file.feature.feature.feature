@@ -3,4 +3,3 @@ Feature: goad
   jijojoi
   jijojio
   jijoijio
-  blah
