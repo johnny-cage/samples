@@ -1,5 +1,5 @@
 Feature: goad
   jiojoijoi
-  jijojoi
-  jijojio
-  jijoijio
+  jijojoi  
+  jijojio  
+  jijoijiob 
