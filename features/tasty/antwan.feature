@@ -1,2 +1,2 @@
-@tag @hello
+@hello
 Feature: Antwan W Feature
