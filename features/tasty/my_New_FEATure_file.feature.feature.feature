@@ -3,3 +3,7 @@ Feature: goad
   jijojoi
   jijojio
   jijoijio
+  ijojiojiojiojiojioj
+  ijiojioj
+  i
+  j
