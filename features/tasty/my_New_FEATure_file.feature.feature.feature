@@ -5,5 +5,5 @@ Feature: goad
   jijoijio
   ijojiojiojiojiojioj
   ijiojioj
-  i
-  j
+  iiii
+  joo
