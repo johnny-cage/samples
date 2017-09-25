@@ -1,6 +1,7 @@
 @tag @hitther @hitther
 Feature:jiojoji
   Scenario: blah2
+    Given I a m tired, tho
     Given I am home
     And i am fj
     And I am home
