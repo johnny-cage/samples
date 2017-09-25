@@ -11,5 +11,6 @@ Feature: hello
   Given I am still there
   And I want to go home or back to sleep and stuff
   And I want to go home or back to sleep and stuff
+  And I want to go home or back to sleep and stuff
   But I want to go home or back to sleep and stuff
   But I want to go home or back to sleep and stuff
