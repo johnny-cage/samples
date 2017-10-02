@@ -1,7 +1,7 @@
 @tag @hello @newOone @antwan-wimberly
 Feature: Account Holder withdraws cashi
 
-  Scenario: Account has sufficient funds
+  Scenario: Account has sufficient fundsii
    Given the account balance is $100.99
      And the card is valid    
      And the card is valid    
