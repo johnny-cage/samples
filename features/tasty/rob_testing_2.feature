@@ -1,1 +1,1 @@
-Feature:
+Feature: my-new-feature
